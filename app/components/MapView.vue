@@ -1,0 +1,1 @@
+<template>Map view</template>
